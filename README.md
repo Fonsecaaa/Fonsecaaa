@@ -1,5 +1,5 @@
 # About Me:
-I'm currently studying in ISEP for a 🎓 Bachelor in Telecommunications and Informatics Engineering 📡💻<br>My favourite areas are Cybersecurity 🔐 and Networking 🌐<br>I'll be taking the CEH in ISEP Academy !<br>
+I'm currently studying in ISEP for a 🎓 Bachelor in Telecommunications and Informatics Engineering 📡💻<br>My favourite areas are Cybersecurity 🔐 and Networking 🌐<br>I'm taking the CEH in ISEP Academy !<br>
 
 
 ## 🌐 Socials:
