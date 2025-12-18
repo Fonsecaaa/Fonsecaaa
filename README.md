@@ -1,7 +1,9 @@
 # About Me:
-I'm currently studying in ISEP for a 🎓 Bachelor in Telecommunications and Informatics Engineering 📡💻<br>My favourite areas are Cybersecurity 🔐 and Networking 🌐<br>CEH Certified<br> 
+I'm currently studying in ISEP for a 🎓 Bachelor in Telecommunications and Informatics Engineering 📡💻<br>My favourite areas are Cybersecurity 🔐 and Networking 🌐
 
-After the CEH i'm planning in taking the HTB CWES (Hack The Box Certified Web Exploitation Specialist) to improve my skills in bug bounty hunting 👾 and web application pentesting 🌐🔐.
+<br>CEH Certified 👨🏻‍💻<br> 
+
+After the CEH i'm planning in taking the HTB CWES (Hack The Box Certified Web Exploitation Specialist) to improve my skills in bug bounty hunting 👾 and web application pentesting 🕷️🌐🔐.
 
 
 ## 🌐 Socials:
