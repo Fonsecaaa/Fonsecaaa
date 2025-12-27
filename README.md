@@ -3,7 +3,7 @@ I'm currently studying in ISEP for a 🎓 Bachelor in Telecommunications and Inf
 
 <br>CEH Certified 👨🏻‍💻<br> 
 
-I'm planning in taking the HTB CWES (Hack The Box Certified Web Exploitation Specialist) to improve my skills in bug bounty hunting 👾 and web application pentesting 🕷️🌐🔐.
+I'm planning in taking the HTB CWES (Hack The Box Certified Web Exploitation Specialist) to improve my skills in bug bounty hunting 👾 and web application pentesting 🕷️.
 
 
 ## 🌐 Socials:
