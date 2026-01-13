@@ -1,4 +1,4 @@
-# 🧑‍💻 About Me:
+# 👨🏻‍💻 About Me:
 
 I'm currently studying in ISEP for a 🎓 Bachelor in Telecommunications and Informatics Engineering 📡💻<br>My favourite areas are Cybersecurity 🔐 and Networking 🌐
 
